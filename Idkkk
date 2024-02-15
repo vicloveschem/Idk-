@@ -1,0 +1,12 @@
+diff --git a/package.json b/package.json
+index 2ecef3d..260838f 100644
+--- a/package.json
++++ b/package.json
+@@ -5,6 +5,7 @@
+   "keywords": [
+     "prettier"
+   ],
++  "prettier": "@github/prettier-config",
+   "license": "MIT",
+   "author": "GitHub Inc.",
+   "main": "index.js"
